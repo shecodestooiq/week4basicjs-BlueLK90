@@ -26,29 +26,29 @@ function printEvenNumbersWithFor() {
 // Task 4
 function getDayOfWeek(weekDay) {
   switch (weekDay) {
-    case 1:
-        console.log("sunday")
-        break;
-        case 2:
-        console.log('monday')
-        break;
-        case 3:
-        console.log('tuesday')
-        break;
-        case 4:
-        console.log('wedensday')
-        break;
-        case 5:
-        console.log('thursday')
-        break;
-        case 6:
-        console.log('friday')
-        break;
-        case 7:
-        console.log('saturday')
-        break;
-        default:
-        console.log ("Weekday should be between 1 and 7")
+      case 1:
+      console.log("sunday")
+      break;
+      case 2:
+      console.log('monday')
+      break;
+      case 3:
+      console.log('tuesday')
+      break;
+      case 4:
+      console.log('wedensday')
+      break;
+      case 5:
+      console.log('thursday')
+      break;
+      case 6:
+      console.log('friday')
+      break;
+      case 7:
+      console.log('saturday')
+      break;
+      default:
+      console.log ("Weekday should be between 1 and 7")
   } 
 }
 
@@ -60,7 +60,7 @@ function sum(num1, num2) {
 // Task 6
 //Uncomment and solve
 const fruits = ['Orange', 'Apple', 'Banana', 'Pineapple', 'Grapes'];
-console.log(array)
+console.log(fruits);
 
 module.exports = {
   checkVotingEligibility,
